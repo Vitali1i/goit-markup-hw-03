@@ -99,13 +99,13 @@ img {
 /* =================header end =======================*/
 /* =================section hero =======================*/
 .hero-container {
-  padding-top: 188px;
-  padding-bottom: 188px;
   padding-left: 331px;
   padding-right: 331px;
 }
 .hero {
   background-color: #2e2f42;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 .title-main {
   max-width: 496px;
