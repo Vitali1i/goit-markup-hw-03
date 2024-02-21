@@ -283,14 +283,13 @@ img {
   display: inline-block;
   margin-bottom: 16px;
 }
-.footer-div {
-  padding: 100px 0;
-}
+
 .log-part-footer {
   color: #f4f4fd;
 }
 .footer {
   background: #2e2f42;
+  padding: 100px 0;
 }
 .footer-text {
   font-weight: 400;
