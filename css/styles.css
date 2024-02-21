@@ -138,10 +138,11 @@ img {
 }
 /* =================section hero end=======================*/
 /* =================section our-benef =======================*/
-.our-benefits {
+.benef-section {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+
 .benef-flex {
   display: flex;
   gap: 24px;
@@ -184,10 +185,6 @@ img {
   padding-top: 32px;
   padding-bottom: 32px;
 }
-.ourteam-cont {
-  padding-top: 120px;
-  padding-bottom: 120px;
-}
 
 .ourteam-flex {
   display: flex;
@@ -196,6 +193,8 @@ img {
 }
 .our-team {
   background-color: #f4f4fd;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .team-heading {
   font-size: 36px;
@@ -258,11 +257,6 @@ img {
   flex-wrap: wrap;
 }
 
-.ourport-div {
-  padding-top: 120px;
-  padding-bottom: 120px;
-}
-
 .serv-list {
   font-weight: 500;
   font-size: 20px;
@@ -275,6 +269,10 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.portfolio-section {
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 /* =================section our-portfolio end=======================*/
